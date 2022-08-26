@@ -1,5 +1,3 @@
-package agosto26;
-
 import javax.swing.JOptionPane;
 
 public class Loja 
