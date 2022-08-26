@@ -2,6 +2,21 @@ import javax.swing.JOptionPane;
 
 public class Loja 
 {
+	/*-----------------------------------------------*
+	 *SENAC - TADS - Programação Orientada a Objetos *
+	 *      Autor: 1142389405 - Rodrigo F Pereira    *
+	 *-----------------------------------------------*
+	 *Objetivo: <<Busca de preço>>*
+	 *                                               *
+	 *Descrição:                                     *
+	 *       <<colocar aqui um breve descrição>>     *
+	 *  e.g: fazer busca na internet (Scrap de dados)*
+	 *       do melhor preço de um determinado       *
+	 *			produto.		 *
+	 *-----------------------------------------------*       
+	 *   
+	 * ----------------------------------------------*/
+	 
 	public static void main(String[] args) 
 	{
 		String[] produto = {"p01", "p02", "p03", "p04", "p05", "p06", "p07", "p08", "p09", "p10"};
