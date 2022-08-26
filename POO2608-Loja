@@ -15,6 +15,7 @@ public class Loja
 			if(cod.equals(produto[i]))
 			{
 				JOptionPane.showMessageDialog(null, preco[i]);
+				break;
 			}
 		}
 	}
